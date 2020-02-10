@@ -1,4 +1,4 @@
-# All things RHEL
+# All Things RHEL
 
 [Useful Stuff](#Useful-stuff)
 
